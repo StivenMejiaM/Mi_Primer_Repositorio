@@ -1,0 +1,5 @@
+nombre : Jonathan Mejia
+edad : 20
+color_favorito : rojo
+fecha_nacimiento : 24 de agosto 2001
+estado_civil : soltero
